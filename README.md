@@ -1,5 +1,5 @@
 # js-dev-env
-My copy of the code from following along in the Pluralsight course **Building a JavaScript Development Enviromnent ** by Cory House.
+My copy of the code from following along in the Pluralsight course **Building a JavaScript Development Enviromnent** by Cory House.
 
 # Software Used
 git scm  
