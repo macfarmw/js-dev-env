@@ -2,9 +2,11 @@
 My copy of the code from following along in the Pluralsight course **Building a JavaScript Development Enviromnent** by Cory House.
 
 # Software Used
-git scm  
-node js  
-VS Code  
+* git scm  
+  * At work configure git for proxy
+  * [Config Git to use a proxy](https://gist.github.com/evantoli/f8c23a37eb3558ab8765)
+* node js  
+* VS Code  
 
 # npm global installs needed
 ```
